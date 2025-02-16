@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hello, I'm Trinh Huu Nghia!</h1>
 
 ### 🏔️ **About Me**
-- ❄️ I come from a **chilly land**, where it's cool all year round. Sometimes, it's so cold that makes anybody stay wrapped in a blanket all day~ 🛌🧣
+- ❄️ I come from a **chilly land**, where I called it **Arcadia**. The weather here is cool all year round. Sometimes, it's so cold that makes anybody stay wrapped in a blanket all day~ 🛌🧣
 
 - 🛠️ I love **tinkering** with all sorts of things—not just computers 💻 but also anything that catches my curiosity in everyday life.  
 
