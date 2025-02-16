@@ -11,7 +11,7 @@
 - 🌍 Besides that, I dream of **traveling far and wide**, capturing beautiful memories 📸 along the way.  
 
 - ☕ When I’m not coding, I enjoy:
-  + 🍵 Going to **cafés** 
+  + 🍵 Going to cafés
   + 📖 Reading books 
   + 📷 Taking photos (Not good at this lmao)
   + 🎮 Playing games (Teamfight Tactics)
