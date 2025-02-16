@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Hello, I'm Trinh Huu Nghia!</h1>
 
-### 🏔️ **About Me**
+### 🏔️ **About Me:**
 - ❄️ I come from a **chilly land**, where I called it **Arcadia**. The weather here is cool all year round. Sometimes, it's so cold that makes anybody stay wrapped in a blanket all day~ 🛌🧣
 
 - 🛠️ I love **tinkering** with all sorts of things—not just computers 💻 but also anything that catches my curiosity in everyday life.  
@@ -19,7 +19,7 @@
 
 ---
 
-### 🌍 **Connect With Me**  
+### 🌍 **Connect With Me:**  
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@yourchannel)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ngh%C4%A9a-tr%E1%BB%8Bnh-h%E1%BB%AFu-b1b498335/)  
 
 📫 **Email me:** trinhnghia270903@gmail.com <br> <br>
