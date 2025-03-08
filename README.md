@@ -1,5 +1,7 @@
 <img src="https://i.pinimg.com/originals/0d/27/e0/0d27e04e0c6b197c32ebc61207276189.gif" />
 
+---
+
 <h1 align="center">👋 Hi there, I'm Trinh Huu Nghia!</h1>
 
 ### 🚀 **About Me:**
