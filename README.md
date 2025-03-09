@@ -2,8 +2,6 @@
 
 ---
 
-<h1 align="center">👋 Hi there, I'm Trinh Huu Nghia!</h1>
-
 ### 🚀 **About Me:**
 
 <p>
