@@ -13,9 +13,9 @@
 
 ### 📌 My Journey
 - Started with web development in 2024
-- Explored various backend technologies
+- Explored some backend technologies
 - Currently focusing on PHP, Laravel, and backend optimization
-- Learning and applying DevOps and AI in development
+- Learning and applying DevOps (maybe AI too) in development
   
 ---
 
