@@ -1,6 +1,9 @@
 <img src="https://i.pinimg.com/originals/0d/27/e0/0d27e04e0c6b197c32ebc61207276189.gif" />
 
 ---
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%98%84+Hello!+%F0%9F%98%84;%F0%9F%96%A5%EF%B8%8F+I%27m+Trinh+Huu+Nghia+%F0%9F%96%A5%EF%B8%8F;Also+known+as+i0101001010i" />
+</h1>
 
 ### 🚀 **About Me:**
 
