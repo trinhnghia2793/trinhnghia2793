@@ -1,8 +1,8 @@
-<img src="https://i.pinimg.com/originals/0d/27/e0/0d27e04e0c6b197c32ebc61207276189.gif" />
+<img width="100%" src="https://i.pinimg.com/originals/0d/27/e0/0d27e04e0c6b197c32ebc61207276189.gif" />
 
 ---
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%98%84+Hello!+%F0%9F%98%84;%F0%9F%96%A5%EF%B8%8F+I%27m+Trinh+Huu+Nghia+%F0%9F%96%A5%EF%B8%8F;Also+known+as+i0101001010i" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%98%84+Hello+%F0%9F%98%84;%F0%9F%92%BB+My+name+is+Trinh+Huu+Nghia+%F0%9F%92%BB;%E2%9B%8F%EF%B8%8F+Also+known+as+i0101001010i+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 
 ### 🚀 **About Me:**
