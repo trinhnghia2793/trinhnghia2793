@@ -2,7 +2,7 @@
 
 ---
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%98%84+Hello+%F0%9F%98%84;%F0%9F%92%BB+My+name+is+Trinh+Huu+Nghia+%F0%9F%92%BB;%E2%9B%8F%EF%B8%8F+Also+known+as+i0101001010i+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=%F0%9F%98%84+Hello+%F0%9F%98%84;%F0%9F%92%BB+My+name+is+Trinh+Huu+Nghia+%F0%9F%92%BB;%E2%9B%8F%EF%B8%8F+Also+known+as+i0101001010i+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 ### 🚀 **About Me:**
