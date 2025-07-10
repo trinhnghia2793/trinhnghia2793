@@ -54,7 +54,7 @@
 ---
 
 ### 🌍 **Connect With Me:**  
-- 🌐 **My Website:** <a href="https://nghia2793.id.vn" target="_blank">nghia2793.id.vn</a>
+- 🌐 **My Website:** https://nghia2793.id.vn
 - 📧 **My Email:** trinhnghia270903@gmail.com
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@trinhhuunghia.2709)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ngh%C4%A9a-tr%E1%BB%8Bnh-h%E1%BB%AFu-b1b498335/)  
