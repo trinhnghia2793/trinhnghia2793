@@ -52,6 +52,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-%23007ACC.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-%23000000.svg?style=for-the-badge&logo=composer&logoColor=black&color=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23000000.svg?style=for-the-badge&logo=nginx&logoColor=white&color=28A745)
 
 ---
 
