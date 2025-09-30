@@ -41,9 +41,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🔹 Frameworks & Libraries:
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%230078D7.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9.svg?style=for-the-badge&logo=Inertia&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-%230078D7.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
