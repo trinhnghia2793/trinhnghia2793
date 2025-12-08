@@ -9,7 +9,7 @@
 
 <p>
   I'm a web developer specializing in both frontend and backend development. 
-  My primary focus is on PHP and Laravel Framework, but I'm also deeply interested in DevOps and AI, aiming to integrate them into my work for better efficiency and innovation.
+  My primary focus is on PHP and Laravel Framework, but I'm also interested and AI, aiming to integrate them into my work for better efficiency and innovation.
 </p>
 
 ---
