@@ -72,6 +72,6 @@ I actively leverage AI tools for learning, research, debugging, and improving de
 - 🌐 **My Website:** https://trinhhuunghia.id.vn
 - 📧 **My Email:** trinhnghia270903@gmail.com
 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@trinhhuunghia.2709)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ngh%C4%A9a-tr%E1%BB%8Bnh-h%E1%BB%AFu-b1b498335/)  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@trinhhuunghia.2709)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trinh-huu-nghia/)  
 
 ---
